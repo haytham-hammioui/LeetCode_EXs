@@ -8,6 +8,7 @@ The main idea is to practice problem solving, keep my solutions in one place, an
 
 - `easy/` contains simpler problems and basic practice.
 - `Medium/` contains problems with a higher level of difficulty.
+- `Hard/` contains advanced problems that require strong algorithmic thinking and optimized solutions.
 
 Each file represents one solved exercise, so this repo works like a personal archive of coding practice and progress.
 
